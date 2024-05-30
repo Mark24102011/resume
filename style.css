@@ -1,0 +1,38 @@
+body{
+    width: 60%  ;
+}
+.box{
+    float: right;
+}
+img{
+    width: 250px;
+    height: 350px;
+}
+h1{
+    text-align: right;
+}
+.rtx{
+    font-size: 20px;
+}
+.gta{
+    text-align: right;
+    margin-left: 130px;
+    margin-top: 50px;
+}
+.ok{
+    display: flex;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.privet{
+    float: left;
+}
+.pr{
+    float: right;
+}
+main{
+    height: 580px;
+}
+.tr{
+    float: right;
+}
